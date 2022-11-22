@@ -1,0 +1,3 @@
+﻿  ch18sortedLinkedList.cpp
+C:\Users\4800590195\source\repos\ch18sortedLinkedList\ch18sortedLinkedList\ch18sortedLinkedList.cpp(157,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ch18sortedLinkedList.vcxproj -> C:\Users\4800590195\source\repos\ch18sortedLinkedList\x64\Debug\ch18sortedLinkedList.exe
